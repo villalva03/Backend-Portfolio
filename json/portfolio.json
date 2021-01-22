@@ -1,14 +1,16 @@
 [
     {
-        "nameProject": "Proyecto 1",
-        "description": "Utilice HTML y CSS para mi portfolio",
-        "image": "",
-        "link": ""
+        "nameProject": "Photo Search",
+        "description": "Proyecto personal realizado con React JS, Material-UI, CSS. Para las imagenes se utilizó la Api de Pexels",
+        "image": "https://i.ibb.co/LdVZsky/photo-Search.png",
+        "link": "https://react-pexels-iota.vercel.app/",
+        "repository": "https://github.com/villalva03/react-pexels-search-image"
     },
     {
-        "nameProject": "Proyecto 2",
-        "description": "Utilice HTML y CSS para mi search image pexel",
-        "image": "",
-        "link": ""
+        "nameProject": "Mapa Covid-19",
+        "description": "Proyecto personal realizado con React JS, React-Leaflet, Material-UI, CSS. Para los datos se utilizó la Api de disease.sh - Open Disease Data",
+        "image": "https://i.ibb.co/SXjPH3v/covid.png",
+        "link": "https://villalva03.github.io/Covid-19-React-Leaflet/",
+        "repository": "https://github.com/villalva03/Covid-19-React-Leaflet"
     }
 ]

@@ -2,15 +2,20 @@
     {
         "name": "Francisco Villalva",
         "profession": "Front-End Developer",
-        "photo": "",
-        "about": "Soy entusiasta",
+        "photo": "https://i.ibb.co/XWRYV22/avatar.jpg",
+        "about01": "Hola, soy Francisco Villalva. Front-End Developer y Analista Programador Universitario. He desarrollado y colaborado en un proyecto durante un año.",
+        "about02": "Me considero una persona responsable y comprometida. Entusiasta y autodidacta, dispuesto a aprender y desenvolverme de la mejor manera posible en nuevas tecnologías, que me permita crecer profesionalmente.",
+        "about03": "Lo que más me gusta de la programación es dar soluciones a problemas que aparentemente son complicados.",
+        "mail": "villalva03@gmail.com",
+        "twitter": "https://twitter.com/villalva0310",
+        "github": "https://github.com/villalva03",
+        "linkedin": "https://www.linkedin.com/in/francisco-villalva",
         "Skills": [
             "HTML",
             "CSS",
             "JavaScript",
             "React JS",
-            "React-Leaflet",
-            "React-Route"
+            "React-Leaflet"
         ]
     }
 ]
