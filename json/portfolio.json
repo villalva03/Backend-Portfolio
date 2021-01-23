@@ -1,16 +1,37 @@
 [
     {
+        "nameProject": "Mi Portfolio",
+        "description": "Proyecto realizado con React JS, CSS y un pequeño backend con Node JS y Express.",
+        "image": "https://i.ibb.co/cJSYZgN/portfolio.png",
+        "link": "https://villalva-francisco.vercel.app/",
+        "repository": "https://github.com/villalva03/Frontend-Portfolio",
+        "icons": ["https://icongr.am/devicon/css3-original-wordmark.svg",
+                    "https://icongr.am/devicon/react-original-wordmark.svg",
+                    "https://icongr.am/devicon/nodejs-original.svg",
+                    "https://icongr.am/devicon/express-original.svg?color=ffffff",
+                    "https://icongr.am/devicon/git-original.svg"]
+    },
+    {
         "nameProject": "Photo Search",
-        "description": "Proyecto personal realizado con React JS, Material-UI, CSS. Para las imagenes se utilizó la Api de Pexels",
+        "description": "Proyecto realizado con React JS, Material-UI, CSS. Para las imagenes se utilizó la Api de Pexels.",
         "image": "https://i.ibb.co/LdVZsky/photo-Search.png",
         "link": "https://react-pexels-iota.vercel.app/",
-        "repository": "https://github.com/villalva03/react-pexels-search-image"
+        "repository": "https://github.com/villalva03/react-pexels-search-image",
+        "icons": ["https://icongr.am/devicon/css3-original-wordmark.svg",
+                    "https://icongr.am/devicon/react-original-wordmark.svg",
+                    "https://material-ui.com/static/logo.png",
+                    "https://icongr.am/devicon/git-original.svg"]
     },
     {
         "nameProject": "Mapa Covid-19",
-        "description": "Proyecto personal realizado con React JS, React-Leaflet, Material-UI, CSS. Para los datos se utilizó la Api de disease.sh - Open Disease Data",
+        "description": "Proyecto realizado con React JS, React-Leaflet, Material-UI, CSS. Para los datos se utilizó la Api de disease.sh Open Disease Data.",
         "image": "https://i.ibb.co/SXjPH3v/covid.png",
         "link": "https://villalva03.github.io/Covid-19-React-Leaflet/",
-        "repository": "https://github.com/villalva03/Covid-19-React-Leaflet"
+        "repository": "https://github.com/villalva03/Covid-19-React-Leaflet",
+        "icons": ["https://icongr.am/devicon/css3-original-wordmark.svg",
+                    "https://icongr.am/devicon/react-original-wordmark.svg",
+                    "https://www.tiagofsanchez.com/static/4ea17284d0f93219dd9797c24bfebaff/53f65/react-leaflet.png",
+                    "https://material-ui.com/static/logo.png",
+                    "https://icongr.am/devicon/git-original.svg"]
     }
 ]
