@@ -3,19 +3,22 @@
         "name": "Francisco Villalva",
         "profession": "Front-End Developer",
         "photo": "https://i.ibb.co/XWRYV22/avatar.jpg",
-        "about01": "Hola, soy Francisco Villalva. Front-End Developer y Analista Programador Universitario. He desarrollado y colaborado en un proyecto durante un año.",
+        "about01": "Hola, soy Francisco Villalva. Front-End Developer y Analista Programador Universitario. Estudiante avanzado de la carrera Licenciatura en Sistemas de Información. He desarrollado y colaborado en un proyecto durante un año.",
         "about02": "Me considero una persona responsable y comprometida. Entusiasta y autodidacta, dispuesto a aprender y desenvolverme de la mejor manera posible en nuevas tecnologías, que me permita crecer profesionalmente.",
         "about03": "Lo que más me gusta de la programación es dar soluciones a problemas que aparentemente son complicados.",
         "mail": "villalva03@gmail.com",
         "twitter": "https://twitter.com/villalva0310",
         "github": "https://github.com/villalva03",
         "linkedin": "https://www.linkedin.com/in/francisco-villalva",
-        "Skills": [
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "React JS",
-            "React-Leaflet"
+        "skillIcons": [
+            "https://icongr.am/devicon/html5-original-wordmark.svg",
+            "https://icongr.am/devicon/css3-original-wordmark.svg",
+            "https://icongr.am/devicon/javascript-original.svg",
+            "https://icongr.am/devicon/react-original-wordmark.svg",
+            "https://i.ibb.co/XsJZfPx/react-leaflet-icon-transparent-500x500.png",
+            "https://material-ui.com/static/logo.png",
+            "https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=148&color=523b78",
+            "https://icongr.am/devicon/git-plain-wordmark.svg?size=148&color=f34f29"
         ]
     }
 ]
